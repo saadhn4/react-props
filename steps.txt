@@ -1,0 +1,10 @@
+- Uusal setup till hello world in div 
+- Create a component folder -> inside it Card.jsx 
+- In Card.jsx, In an h1 tag.. Add <h1> hi my name is </h1>
+- Import card in App.jsx 
+- <Card/> below the Hello world div!
+- Add a variable of name and store a value
+- Come back to Card.jsx 
+- Pass props as an argument
+- In h1 tag, add {props.name}
+- Now your card is dynamic
